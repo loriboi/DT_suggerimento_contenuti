@@ -1,0 +1,203 @@
+id_utente,eta_utente,nazionalita_utente,occupazione_utente,categoria_preferita1,categoria_preferita2,categoria_preferita3,durata_media_sessioni,contenuto_preferito,durata_contenuto_preferito,attore_preferito,regista_preferito
+001,25,Italiana,Studente,Commedia,Drammatico,Romantico,45,Friends,30,Jennifer Aniston,David Crane
+002,35,Francese,Ingegnere,Sci-Fi,Thriller,Azione,50,Inception,148,Leonardo DiCaprio,Christopher Nolan
+003,42,Spagnola,Medico,Drammatico,Crimine,Thriller,55,Breaking Bad,60,Bryan Cranston,Vince Gilligan
+004,8,Statunitense,Bambino,Animazione,Commedia,Famiglia,40,SpongeBob SquarePants,22,Tom Kenny,Stephen Hillenburg
+005,31,Inglese,Avvocato,Mistero,Crimine,Drammatico,60,Sherlock,90,Benedict Cumberbatch,Steven Moffat
+006,29,Italiana,Imprenditore,Commedia,Azione,Avventura,50,The Marvelous Mrs. Maisel,45,Rachel Brosnahan,Amy Sherman-Palladino
+007,38,Canadese,Insegnante,Documentario,Cucina,Viaggi,65,Chef's Table,60,N/A,David Gelb
+008,33,Inglese,Programmatore,Sci-Fi,Horror,Thriller,55,Stranger Things,55,Millie Bobby Brown,The Duffer Brothers
+009,45,Spagnola,Manager,Azione,Avventura,Fantasy,50,The Lord of the Rings,201,Elijah Wood,Peter Jackson
+010,27,Francese,Studente,Commedia,Romantico,Drammatico,45,La La Land,128,Ryan Gosling,Damien Chazelle
+011,36,Italiana,Architetto,Documentario,Arte,Storia,60,Abstract: The Art of Design,45,N/A,Morgan Neville
+012,30,Statunitense,Ingegnere,Drammatico,Romantico,Storico,65,Downton Abbey,50,Hugh Bonneville,Julian Fellowes
+013,29,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+014,34,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+015,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+016,5,Spagnola,Bambino,Animazione,Commedia,Famiglia,40,Paw Patrol,22,Justin Paul,Keith Chapman
+017,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+018,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+019,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+020,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+021,41,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+022,24,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+023,29,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+024,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+025,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+026,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+027,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+028,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+029,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+030,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+031,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+032,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+033,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+034,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+035,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+036,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+037,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+038,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+039,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+040,8,Italiana,Bambino,Animazione,Commedia,Famiglia,40,PJ Masks,22,Kyle Breitkopf,Ron Cantu
+041,29,Statunitense,Insegnante,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+042,26,Inglese,Artista,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+043,31,Francese,Impiegato,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+044,35,Italiana,Manager,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+045,9,Spagnola,Bambino,Animazione,Commedia,Famiglia,40,Peppa Pig,22,John Sparkes,Neville Astley
+046,38,Inglese,Architetto,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+047,32,Statunitense,Programmatore,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+048,40,Inglese,Insegnante,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+049,37,Francese,Psicologo,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+050,41,Italiana,Avvocato,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+051,8,Inglese,Bambino,Animazione,Commedia,Famiglia,40,Paw Patrol,22,Justin Paul,Keith Chapman
+052,25,Statunitense,Studente,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+053,36,Spagnola,Ingegnere,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+054,29,Inglese,Imprenditore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+055,30,Francese,Architetto,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+056,33,Italiana,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+057,7,Statunitense,Bambino,Animazione,Commedia,Famiglia,40,PJ Masks,22,Kyle Breitkopf,Ron Cantu
+058,35,Inglese,Insegnante,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+059,28,Spagnola,Artista,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+060,39,Inglese,Impiegato,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+061,10,Italiana,Bambino,Animazione,Commedia,Famiglia,40,SpongeBob SquarePants,22,Tom Kenny,Stephen Hillenburg
+062,39,Statunitense,Ingegnere,Sci-Fi,Thriller,Azione,50,Inception,148,Leonardo DiCaprio,Christopher Nolan
+063,42,Francese,Medico,Drammatico,Crimine,Thriller,55,Breaking Bad,60,Bryan Cranston,Vince Gilligan
+064,6,Inglese,Bambino,Animazione,Commedia,Famiglia,40,Paw Patrol,22,Justin Paul,Keith Chapman
+065,31,Spagnola,Avvocato,Mistero,Crimine,Drammatico,60,Sherlock,90,Benedict Cumberbatch,Steven Moffat
+066,29,Italiana,Imprenditore,Commedia,Azione,Avventura,50,The Marvelous Mrs. Maisel,45,Rachel Brosnahan,Amy Sherman-Palladino
+067,38,Canadese,Insegnante,Documentario,Cucina,Viaggi,65,Chef's Table,60,N/A,David Gelb
+068,33,Inglese,Programmatore,Sci-Fi,Horror,Thriller,55,Stranger Things,55,Millie Bobby Brown,The Duffer Brothers
+069,45,Spagnola,Manager,Azione,Avventura,Fantasy,50,The Lord of the Rings,201,Elijah Wood,Peter Jackson
+070,27,Francese,Studente,Commedia,Romantico,Drammatico,45,La La Land,128,Ryan Gosling,Damien Chazelle
+071,36,Italiana,Architetto,Documentario,Arte,Storia,60,Abstract: The Art of Design,45,N/A,Morgan Neville
+072,30,Statunitense,Ingegnere,Drammatico,Romantico,Storico,65,Downton Abbey,50,Hugh Bonneville,Julian Fellowes
+073,29,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+074,34,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+075,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+076,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+077,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+078,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+079,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+080,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+081,41,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+082,24,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+083,29,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+084,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+085,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+086,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+087,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+088,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+089,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+090,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+091,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+092,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+093,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+094,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+095,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+096,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+097,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+098,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+099,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+100,8,Italiana,Bambino,Animazione,Commedia,Famiglia,40,PJ Masks,22,Kyle Breitkopf,Ron Cantu
+101,29,Statunitense,Insegnante,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+102,26,Inglese,Artista,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+103,31,Francese,Impiegato,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+104,10,Inglese,Bambino,Animazione,Commedia,Famiglia,40,SpongeBob SquarePants,22,Tom Kenny,Stephen Hillenburg
+105,39,Statunitense,Ingegnere,Sci-Fi,Thriller,Azione,50,Inception,148,Leonardo DiCaprio,Christopher Nolan
+106,42,Francese,Medico,Drammatico,Crimine,Thriller,55,Breaking Bad,60,Bryan Cranston,Vince Gilligan
+107,6,Inglese,Bambino,Animazione,Commedia,Famiglia,40,Paw Patrol,22,Justin Paul,Keith Chapman
+108,31,Spagnola,Avvocato,Mistero,Crimine,Drammatico,60,Sherlock,90,Benedict Cumberbatch,Steven Moffat
+109,29,Italiana,Imprenditore,Commedia,Azione,Avventura,50,The Marvelous Mrs. Maisel,45,Rachel Brosnahan,Amy Sherman-Palladino
+110,38,Canadese,Insegnante,Documentario,Cucina,Viaggi,65,Chef's Table,60,N/A,David Gelb
+111,33,Inglese,Programmatore,Sci-Fi,Horror,Thriller,55,Stranger Things,55,Millie Bobby Brown,The Duffer Brothers
+112,45,Spagnola,Manager,Azione,Avventura,Fantasy,50,The Lord of the Rings,201,Elijah Wood,Peter Jackson
+113,27,Francese,Studente,Commedia,Romantico,Drammatico,45,La La Land,128,Ryan Gosling,Damien Chazelle
+114,36,Italiana,Architetto,Documentario,Arte,Storia,60,Abstract: The Art of Design,45,N/A,Morgan Neville
+115,30,Statunitense,Ingegnere,Drammatico,Romantico,Storico,65,Downton Abbey,50,Hugh Bonneville,Julian Fellowes
+116,29,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+117,34,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+118,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+119,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+120,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+121,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+122,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+123,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+124,41,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+125,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+126,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+127,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+128,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+129,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+130,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+131,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+132,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+133,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+134,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+135,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+136,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+137,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+138,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+139,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+140,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+141,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+142,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+143,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+144,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+145,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+146,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+147,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+148,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+149,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+150,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+151,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+152,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+153,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+154,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+155,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+156,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+157,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+158,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+159,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+160,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+161,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+162,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+163,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+164,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+165,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+166,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+167,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+168,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+169,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+170,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+171,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+172,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+173,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+174,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+175,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+176,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+177,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+178,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+179,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+180,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+181,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+182,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+183,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+184,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+185,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+186,30,Spagnola,Architetto,Drammatico,Romantico,Musica,65,Bohemian Rhapsody,134,Rami Malek,Bryan Singer
+187,35,Francese,Avvocato,Sci-Fi,Thriller,Azione,50,Blade Runner 2049,164,Ryan Gosling,Denis Villeneuve
+188,38,Inglese,Programmatore,Commedia,Romantico,Drammatico,45,Friends,22,Jennifer Aniston,David Crane
+189,43,Italiana,Manager,Documentario,Crimine,Mistero,55,Making a Murderer,50,N/A,Laura Ricciardi
+190,31,Statunitense,Ingegnere,Animazione,Commedia,Famiglia,40,The Simpsons,22,Dan Castellaneta,Matt Groening
+191,27,Inglese,Scrittore,Horror,Thriller,Mistero,55,American Horror Story,45,Evan Peters,Ryan Murphy
+192,33,Francese,Psicologo,Drammatico,Crimine,Thriller,55,True Detective,55,Matthew McConaughey,Nic Pizzolatto
+193,40,Italiana,Avvocato,Commedia,Romantico,Drammatico,45,The Office,22,Steve Carell,Greg Daniels
+194,26,Spagnola,Studente,Animazione,Commedia,Famiglia,40,Rick and Morty,22,Justin Roiland,Dan Harmon
+195,39,Italiana,Medico,Documentario,Natura,Scienza,60,Our Planet,45,David Attenborough,Alastair Fothergill
+196,32,Inglese,Musicista,Commedia,Azione,Avventura,50,Brooklyn Nine-Nine,22,Andy Samberg,Daniel J. Goor
+197,28,Statunitense,Ingegnere,Horror,Thriller,Mistero,55,Black Mirror,55,N/A,Charlie Brooker
+198,37,Francese,Imprenditore,Crimine,Drammatico,Thriller,60,Narcos,50,Wagner Moura,Chris Brancato
+199,42,Italiana,Designer,Commedia,Fantasy,Avventura,50,Game of Thrones,60,Kit Harington,David Benioff
+200,25,Inglese,Studente,Fantasy,Avventura,Azione,50,Harry Potter,159,Daniel Radcliffe,David Yates
+
+
